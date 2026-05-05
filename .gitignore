@@ -1,0 +1,10 @@
+.gradle/
+build/
+.vscode/
+.nexttools_patch_src/
+bin/
+target/
+*.log
+*.class
+*.jar
+.DS_Store
